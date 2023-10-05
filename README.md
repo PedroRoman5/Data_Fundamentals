@@ -23,6 +23,12 @@ M4-03-Condicionales
 
    M4-02- Generando mapas con Folium
 
-    
+   # Día 4 - Jueves
+  
+   M4-04-Data Collection en SpaceX
+
+   M4-04-Creación de un Dataset en base a unos parámetros establecidos
+
+   M4-04- SpaceX a través de SQL
 
     
