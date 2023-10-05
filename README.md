@@ -19,7 +19,7 @@ M4-03-Condicionales
  
    M4-03-Prophet y análisis en Bitcoin
 
-   M4-03-Data Visualzation en SpaceX
+   M4-03-Data Visualization en SpaceX
 
    M4-02- Generando mapas con Folium
 
